@@ -1,1 +1,1 @@
-This is my first README--
+This is Alex Dubov's Data Science folder
